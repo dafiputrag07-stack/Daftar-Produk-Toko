@@ -57,8 +57,17 @@ Tunggu hingga proses build selesai. Aplikasi Manajemen Produk akan terbuka.
 
 ## Tampilan Aplikasi
 
-Berikut merupakan tampilan antarmuka aplikasi Manajemen Produk:
+1. Setelah tampilan form muncul, pengguna dapat mengisi data produk makanan atau minuman pada kolom yang tersedia.
+   ![Tampilan Aplikasi](ProdukToko/screenshot/1.png)
 
-![Tampilan Aplikasi](ProdukToko/screenshot/Form.png)
-![Tampilan Aplikasi](ProdukToko/screenshot/Daftar.png)
-![Tampilan Aplikasi](ProdukToko/screenshot/Detail.png)
+2. Setelah memasukkan data makanan atau minuman, informasi tersebut akan ditampilkan dalam bentuk tabel di halaman Data Produk.
+   ![Tampilan Aplikasi](ProdukToko/screenshot/2.png)
+
+3. Pengguna dapat mencari produk yang diinginkan melalui fitur pencarian.
+   ![Tampilan Aplikasi](ProdukToko/screenshot/3.png)
+
+4. Pengguna dapat melihat informasi produk secara lengkap melalui tombol Detail yang tersedia pada setiap data.
+   ![Tampilan Aplikasi](ProdukToko/screenshot/4.png)
+
+5. Apabila kolom Nama atau Harga dikosongkan, sistem akan menolak data tersebut karena tidak valid.
+    ![Tampilan Aplikasi](ProdukToko/screenshot/5.png)
