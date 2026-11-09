@@ -59,5 +59,5 @@ Tunggu hingga proses build selesai. Aplikasi Manajemen Produk akan terbuka.
 
 Berikut merupakan tampilan antarmuka aplikasi Manajemen Produk:
 
-[Tampilan Aplikasi](ProdukToko/screenshot/Form.png).
+![Tampilan Aplikasi](ProdukToko/screenshot/Form.png).
 ```
