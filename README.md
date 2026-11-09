@@ -75,4 +75,4 @@ Tunggu hingga proses build selesai. Aplikasi Manajemen Produk akan terbuka.
 
 ### 5. Apabila kolom Nama atau Harga dikosongkan, sistem akan menolak data tersebut karena tidak valid.
 
-    ![Tampilan Aplikasi](ProdukToko/screenshot/5.png)
+   ![Tampilan Aplikasi](ProdukToko/screenshot/5.png)
