@@ -62,5 +62,5 @@ Berikut merupakan tampilan antarmuka aplikasi Manajemen Produk:
 *(Tambahkan screenshot aplikasi di bagian ini)*
 
 ```markdown
-![Tampilan Aplikasi](link-gambar-screenshot)
+![Tampilan Aplikasi](ProdukToko/Screenshot/Form.png).,
 ```
